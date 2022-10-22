@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-800 h-screen">
+  <div class="bg-gray-800 min-h-screen">
     <div class="max-w-7xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
       <div class="max-w-4xl">
         <h2 class="text-4xl font-extrabold text-white sm:text-5xl sm:tracking-tight lg:text-6xl">🍵 Hello Oolong!</h2>
