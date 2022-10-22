@@ -18,7 +18,7 @@
           <p class="mt-5 text-xl text-gray-400">Join our mailing list to stay up to date with our progress.</p>
 
           <!-- Begin Mailchimp Signup Form -->
-          <div id="mc_embed_signup" class="px-2 py-0.5 my-4 rounded-lg">
+          <div id="mc_embed_signup" class="px-2 py-0.5 my-6 rounded-lg flex">
             <form
               action="https://gmail.us10.list-manage.com/subscribe/post?u=fed52bd159f3cef7ff5d8a5d8&amp;id=0e59c3fac5&amp;f_id=00823be2f0"
               method="post"
@@ -86,6 +86,5 @@ var $mcj = jQuery.noConflict(true);
   background: #fff;
   clear: left;
   font: 14px Helvetica, Arial, sans-serif;
-  width: 600px;
 }
 </style>
